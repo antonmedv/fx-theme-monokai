@@ -1,0 +1,26 @@
+{
+  "name": "fx-theme-monokai",
+  "version": "1.0.0",
+  "description": "fx theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonmedv/fx-theme-monokai.git"
+  },
+  "keywords": [
+    "fx",
+    "theme"
+  ],
+  "author": "Anton Medvedev <anton@medv.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonmedv/fx-theme-monokai/issues"
+  },
+  "homepage": "https://github.com/antonmedv/fx-theme-monokai#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
